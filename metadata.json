@@ -1,0 +1,5 @@
+{
+  "name": "Tabula Gustum Recipe Keeper",
+  "description": "An intelligent recipe keeper that uses Gemini to extract and organize recipes from text and images. Users can store, browse, search, and export their recipes.",
+  "requestFramePermissions": []
+}
