@@ -1,8 +1,6 @@
 import React from 'react';
 import { Recipe } from '../types';
-import { XIcon } from './icons/XIcon';
-
-interface RecipeViewModalProps {
+impport { XIcon } from './icons/XIcon';
   recipe: Recipe | null;
   onClose: () => void;
   onDelete: (recipeId: string) => void;
