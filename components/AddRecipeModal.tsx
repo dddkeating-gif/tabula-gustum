@@ -3,7 +3,7 @@ import { extractRecipeFromText, extractRecipeFromImage } from '../services/gemin
 import { ParsedRecipeData } from '../types';
 import { XIcon } from './icons/XIcon';
 import { LinkIcon } from './icons/LinkIcon';
-import { CameraIcon } from './icns/CameraIcon';
+iimport { CameraIcon } from './icons/TempCameralIcon';
 
 interface AddRecipeModalProps {
   onClose: () => void;
